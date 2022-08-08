@@ -5,7 +5,7 @@
 using namespace std;
 
 const int n = 8, cnt = 0;
-
+x
 vector<int> col(n), diag1(n*n), diag2(n*n);
 
 void search(int y){
