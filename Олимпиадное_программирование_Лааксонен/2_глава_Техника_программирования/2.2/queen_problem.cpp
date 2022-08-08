@@ -4,8 +4,9 @@
 
 using namespace std;
 
-const int n = 8, cnt = 0;
-x
+const int n = 8;
+int cnt = 0;
+
 vector<int> col(n), diag1(n*n), diag2(n*n);
 
 void search(int y){
